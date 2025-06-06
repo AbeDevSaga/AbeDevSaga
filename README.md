@@ -23,6 +23,20 @@
 ### 🖥️ Language & Framework Usage Breakdown
 
 ![Languages Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=AbeDevSaga&layout=pie&theme=radical)
+### 🛠️ Frameworks & Libraries Skill Level
+
+| Technology   | Skill Level  |
+|--------------|--------------|
+| Next.js      | ██████████ 90% |
+| React        | █████████  85% |
+| Node.js      | ████████   75% |
+| Express      | ████████   75% |
+| MongoDB      | ███████    70% |
+| Laravel      | ██████     60% |
+| Tailwind CSS | ████████   75% |
+| Docker       | ██████     60% |
+| Socket.io    | ██████     60% |
+| WebRTC       | █████      50% |
 
 ---
 ## 📫 Connect With Me
