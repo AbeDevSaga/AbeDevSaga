@@ -25,18 +25,21 @@
 ![Languages Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=AbeDevSaga&layout=pie&theme=radical)
 ### 🛠️ Frameworks & Libraries Skill Level
 
-| Technology   | Skill Level  |
-|--------------|--------------|
-| Next.js      | ██████████ 90% |
-| React        | █████████  85% |
-| Node.js      | ████████   75% |
-| Express      | ████████   75% |
-| MongoDB      | ███████    70% |
-| Laravel      | ██████     60% |
-| Tailwind CSS | ████████   75% |
-| Docker       | ██████     60% |
-| Socket.io    | ██████     60% |
-| WebRTC       | █████      50% |
+### 🛠️ Frameworks & Libraries Skill Level
+
+| Technology   | Skill Level                   |
+|--------------|-------------------------------|
+| Next.js      | ![90%](https://progress-bar.dev/90)  |
+| React        | ![90%](https://progress-bar.dev/90)  |
+| Node.js      | ![85%](https://progress-bar.dev/85)  |
+| Express      | ![85%](https://progress-bar.dev/85)  |
+| MongoDB      | ![85%](https://progress-bar.dev/85)  |
+| Laravel      | ![85%](https://progress-bar.dev/85)  |
+| Tailwind CSS | ![80%](https://progress-bar.dev/80)  |
+| Docker       | ![80%](https://progress-bar.dev/80)  |
+| Socket.io    | ![75%](https://progress-bar.dev/75)  |
+| WebRTC       | ![75%](https://progress-bar.dev/75)  |
+
 
 ---
 ## 📫 Connect With Me
