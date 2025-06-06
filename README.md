@@ -17,6 +17,11 @@
 
 ![Amanuel's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbeDevSaga&show_icons=true&theme=radical)
 
+---
+### 🖥️ Language & Framework Usage Breakdown
+
+![Languages Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=AbeDevSaga&layout=compact&theme=radical)  
+
 ![Next.js 90%](https://img.shields.io/badge/Next.js-90%25-brightgreen) 
 ![React 90%](https://img.shields.io/badge/React-90%25-brightgreen) 
 ![Node.js 85%](https://img.shields.io/badge/Node.js-85%25-green) 
@@ -27,14 +32,6 @@
 ![Docker 80%](https://img.shields.io/badge/Docker-80%25-yellowgreen) 
 ![Socket.io 75%](https://img.shields.io/badge/Socket.io-75%25-yellow) 
 ![WebRTC 75%](https://img.shields.io/badge/WebRTC-75%25-yellow)
-
-
-
----
-### 🖥️ Language & Framework Usage Breakdown
-
-![Languages Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=AbeDevSaga&layout=compact&theme=radical)  
-![Next.js 90%](https://img.shields.io/badge/Next.js-90%25-brightgreen) ![React 90%](https://img.shields.io/badge/React-90%25-brightgreen) ![Node.js 85%](https://img.shields.io/badge/Node.js-85%25-green)
 
 ---
 ## 📫 Connect With Me
