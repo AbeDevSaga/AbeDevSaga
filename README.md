@@ -19,10 +19,16 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AbeDevSaga&layout=compact&theme=radical)
 
 ---
+<table>
+  <tr>
+    <td valign="top" width="50%">
 
 ### 🖥️ Language & Framework Usage Breakdown
 
 ![Languages Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=AbeDevSaga&layout=pie&theme=radical)
+
+    </td>
+    <td valign="top" width="50%">
 
 ### 🛠️ Frameworks & Libraries Skill Level
 
@@ -39,6 +45,9 @@
 | Socket.io    | ![Socket.io 75%](https://img.shields.io/badge/Socket.io-75%25-yellow)   |
 | WebRTC       | ![WebRTC 75%](https://img.shields.io/badge/WebRTC-75%25-yellow)         |
 
+    </td>
+  </tr>
+</table>
 
 ---
 ## 📫 Connect With Me
