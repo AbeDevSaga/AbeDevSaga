@@ -23,22 +23,21 @@
 ### 🖥️ Language & Framework Usage Breakdown
 
 ![Languages Pie Chart](https://github-readme-stats.vercel.app/api/top-langs/?username=AbeDevSaga&layout=pie&theme=radical)
-### 🛠️ Frameworks & Libraries Skill Level
 
 ### 🛠️ Frameworks & Libraries Skill Level
 
-| Technology   | Skill Level                   |
-|--------------|-------------------------------|
-| Next.js      | ![90%](https://progress-bar.dev/90)  |
-| React        | ![90%](https://progress-bar.dev/90)  |
-| Node.js      | ![85%](https://progress-bar.dev/85)  |
-| Express      | ![85%](https://progress-bar.dev/85)  |
-| MongoDB      | ![85%](https://progress-bar.dev/85)  |
-| Laravel      | ![85%](https://progress-bar.dev/85)  |
-| Tailwind CSS | ![80%](https://progress-bar.dev/80)  |
-| Docker       | ![80%](https://progress-bar.dev/80)  |
-| Socket.io    | ![75%](https://progress-bar.dev/75)  |
-| WebRTC       | ![75%](https://progress-bar.dev/75)  |
+| Technology   | Skill Level                              |
+|--------------|----------------------------------------|
+| Next.js      | ![Next.js 90%](https://img.shields.io/badge/Next.js-90%25-brightgreen)  |
+| React        | ![React 90%](https://img.shields.io/badge/React-90%25-brightgreen)      |
+| Node.js      | ![Node.js 85%](https://img.shields.io/badge/Node.js-85%25-green)         |
+| Express      | ![Express 85%](https://img.shields.io/badge/Express-85%25-green)         |
+| MongoDB      | ![MongoDB 85%](https://img.shields.io/badge/MongoDB-85%25-green)         |
+| Laravel      | ![Laravel 85%](https://img.shields.io/badge/Laravel-85%25-green)         |
+| Tailwind CSS | ![Tailwind CSS 80%](https://img.shields.io/badge/Tailwind_CSS-80%25-yellowgreen) |
+| Docker       | ![Docker 80%](https://img.shields.io/badge/Docker-80%25-yellowgreen)     |
+| Socket.io    | ![Socket.io 75%](https://img.shields.io/badge/Socket.io-75%25-yellow)   |
+| WebRTC       | ![WebRTC 75%](https://img.shields.io/badge/WebRTC-75%25-yellow)         |
 
 
 ---
